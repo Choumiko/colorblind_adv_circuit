@@ -8,3 +8,4 @@ data.raw["item"]["advanced-circuit"].icons = {
     {icon = "__colorblind_adv_circuit__/graphics/advanced-circuit.png", tint = tint },
     {icon = "__colorblind_adv_circuit__/graphics/advanced-circuit-top.png"}
 }
+data.raw["item"]["advanced-circuit"].icon = nil
